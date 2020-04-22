@@ -76,6 +76,9 @@ DicoFlag = {
                           "j:spells,abilities/permadeath " \
                           "Tstandard/sparse:90 Sstandard Bstandard/alt:gauntlet/whichburn Nchars/key " \
                           "Etoggle/keep:doors,behemoths/danger Gdupe/life -kit:better",
+
+    # ANTI CPU RUN 
+
 }
 # Dictionnaire des imges
 DicoImages = {
